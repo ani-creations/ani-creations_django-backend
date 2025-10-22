@@ -9,3 +9,4 @@ platformdirs==4.5.0
 userpath==1.9.2
 virtualenv==20.35.3
 virtualenvwrapper-win==1.2.7
+django==5.2.7
