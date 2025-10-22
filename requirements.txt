@@ -1,0 +1,12 @@
+argcomplete==3.6.2
+click==8.3.0
+colorama==0.4.6
+distlib==0.4.0
+filelock==3.20.0
+packaging==25.0
+pipx==1.8.0
+platformdirs==4.5.0
+userpath==1.9.2
+virtualenv==20.35.3
+virtualenvwrapper-win==1.2.7
+django==5.2.7
